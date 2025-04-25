@@ -1,2 +1,3 @@
 # Honours-Project
-BioScape project data for my Honours project
+
+The repository consists of all the collected and analysed data from the hyperspectral and LiDAR sensors used in the BioScape project.
